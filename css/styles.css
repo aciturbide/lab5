@@ -5,12 +5,12 @@ body {
   margin: 0;
 }
 h1 {
+  background-color: #FFFFFF;
   color: purple;
   font-family: 'Courier New', monospace;
   text-align: center;
   font-size: 40px;
   text-decoration: overline underline;
-  background-color: #FFFFFF;
 }
 img {
   border-radius: 75%;
@@ -33,7 +33,7 @@ th,td {
   background-color: #e6ffe6;
 }
 p {
+  background-color: #FFFFFF;
   font-family: 'Courier New', monospace;
   text-align: center;
-  background-color: #FFFFFF;
 }
